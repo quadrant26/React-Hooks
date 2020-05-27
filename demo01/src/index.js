@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Example from './Example-hooks'
+import Example from './Example6/example'
 
 ReactDOM.render(
   <React.StrictMode>
